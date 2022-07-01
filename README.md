@@ -1,7 +1,6 @@
 # yolov4-deepsort
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-NOTE - This is a custom repository, cloned from https://github.com/theAIGuysCode/yolov4-deepsort. All credits to theAIGuysCode for this wonderful repository. This repository is made mainy for "person" detection
+NOTE - This is a custom repository, cloned and altered from https://github.com/theAIGuysCode/yolov4-deepsort. All credits to theAIGuysCode for this wonderful repository. This repository is made mainy for "person" detection
 
 Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a state of the art algorithm that uses deep convolutional neural networks to perform object detections. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
 
